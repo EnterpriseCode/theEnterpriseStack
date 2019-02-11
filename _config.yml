@@ -1,6 +1,5 @@
 title: The Enterprise Stack
 description: We are engineers, designers, architects and managers. Together we want to share our experience about technology in a large Enterprise environment.
-show_downloads: true
+show_downloads: false
 google_analytics: UA-69921042-1
 theme: jekyll-theme-slate
-show_downloads: false
