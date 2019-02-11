@@ -3,3 +3,4 @@ description: We are engineers, designers, architects and managers. Together we w
 show_downloads: true
 google_analytics: UA-69921042-1
 theme: jekyll-theme-slate
+show_downloads: false
